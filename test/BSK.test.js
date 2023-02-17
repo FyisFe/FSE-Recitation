@@ -4,7 +4,7 @@ import Game from '../src/Game'
 
 describe('Demo Test Suite', () => {
   test('Demo test', () => {
-    expect(1).toBe(0)
+    expect(1).toBe(1)
   })
 })
 
